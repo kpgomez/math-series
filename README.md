@@ -20,3 +20,4 @@ pytest
 [class 02 demo](https://github.com/codefellows/seattle-code-python-401n8/tree/main/class-02/in-class-demo)
 [Lucas series](https://r-knott.surrey.ac.uk/Fibonacci/lucas200.html)
 [Fibonacci series](https://www.mathsisfun.com/numbers/fibonacci-sequence.html)
+[Required and optional parameters in Python](https://stackoverflow.com/questions/38364162/in-python-how-do-you-denote-required-parameters-and-optional-parameters-in-code)
