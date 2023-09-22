@@ -48,3 +48,10 @@ def test_fibonacci_ten():
     assert actual == expected
 
 
+#@pytest.mark.skip()
+def test_fibonacci_twenty():
+    actual = fibonacci(20)
+    expected = 6765
+    assert actual == expected
+
+

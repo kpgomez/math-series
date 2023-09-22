@@ -1,5 +1,5 @@
 """
-Fibonacci sequence starts with 0,1 and each new iteration is a sum of the two integers before it
+Fibonacci series starts with 0,1 and each new iteration is a sum of the two integers before it
 0+1=2, 1+2=3, 2+3=5 so the first five integers are 0, 1, 2, 3, 5
 """
 
